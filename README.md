@@ -1,4 +1,4 @@
-# Kumpulan sourcecode belajar javascript dom codepolitan
+# Kumpulan sourcecode belajar javascript dom
 
 forked from lunadiotic/cp-javascript-dom
 
